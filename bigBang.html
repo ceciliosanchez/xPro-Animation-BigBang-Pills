@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Big Bang</title>
-    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <div class="svg-container">
@@ -22,7 +22,7 @@
         const balls = []; // array to hold all free balls
         let velocity_x = [];
         let velocity_y = [];
-        let gravity = 1;
+        let gravity = 0;
 
         function checkWalls(i) {
             if (x[i] < 0) velocity_x[i] = -velocity_x[i];
@@ -48,7 +48,7 @@
                 balls[i].style.left = x[i] + 'px';
                 balls[i].style.top = y[i] + 'px';
             }
-            setTimeout(update, 50); // this calls update every 1/20 second
+            setTimeout(update, 20); // this calls update every 1/20 second
         }
 
         function getRandom(scale) {
@@ -65,7 +65,7 @@
         }
 
         window.onload = function() {
-            factory(100); // create 100 balls initially
+            factory(160); // create 100 balls initially
             update(); // start the animation
         };
     </script>
