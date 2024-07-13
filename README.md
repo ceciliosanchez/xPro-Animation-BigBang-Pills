@@ -18,7 +18,7 @@ ball.js: Contains functions to create and manipulate the particle elements and i
 
 Clone the repository.</br>
 Open one-dimension-motion.html in a web browser.</br>
-Preview: <a href="https://ceciliosanchez.com/github/xpro/moving_particles/one-dimension-motion.html" target="_blank">Moving Particles</a>
+Preview: <a href="https://ceciliosanchez.com/github/xpro/big_bang_pills/bigBang.html" target="_blank">Big Bang Pills</a>
 
 ## Support
 
