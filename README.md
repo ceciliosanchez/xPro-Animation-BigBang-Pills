@@ -11,8 +11,8 @@ When they hit the walls, they change in size.</br>
 
 ## Files
 
-bigBang.html: Main HTML file that includes the canvas and scripts.</br>
-ball.js: Contains functions to create and manipulate the particle elements and its effects.
+- `bigBang.html`: Main HTML file that includes the canvas and scripts.
+- `ball.js`: Contains functions to create and manipulate the particle elements and its effects.
 
 ## How to run
 
