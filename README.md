@@ -4,8 +4,6 @@
 
 This project showcases a visually stunning animation of bouncing balls with gradient colors on a dynamic background.
 
-## Demo
-![Demo](path/to/demo.gif)
 
 ## Features
 
