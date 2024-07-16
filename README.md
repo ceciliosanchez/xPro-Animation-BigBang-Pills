@@ -7,7 +7,7 @@ This project showcases a visually stunning animation of bouncing balls with grad
 ## Demo
 ![Demo](path/to/demo.gif)
 
-## Functionality
+## Features
 
 - Canvas Animation: Utilizes the HTML5 Canvas for smooth, high-performance animations.
 - Gradient Background: A vibrant, animated gradient background for a visually appealing effect.
@@ -18,13 +18,13 @@ This project showcases a visually stunning animation of bouncing balls with grad
 
 - `bigBang.html`: Main HTML file that includes the canvas and scripts links.
 - `balls.js`: Contains functions to create and manipulate the particle elements and its effects.
-- `styles.css`: Contains 
+- `styles.css`: Styles and gradients. 
 
 ## How to run
 
-Clone the repository.</br>
-Open one-dimension-motion.html in a web browser.</br>
-Preview: <a href="https://ceciliosanchez.com/github/xpro/big_bang_pills/bigBang.html" target="_blank">Big Bang Pills</a>
+1. Clone the repository.
+2. Open `bigBang.html` in a web browser.
+3. Preview: <a href="https://ceciliosanchez.com/github/xpro/big_bang_pills/bigBang.html" target="_blank">Big Bang Pills</a>
 
 ## Support
 
