@@ -9,15 +9,16 @@ This project showcases a visually stunning animation of bouncing balls with grad
 
 ## Functionality
 
-- **Canvas Animation**: Utilizes the HTML5 Canvas for smooth, high-performance animations.
-- **Gradient Background**: A vibrant, animated gradient background for a visually appealing effect.
-- **Dynamic Ball Animation**: Balls with gradient colors in shades of black and white, bouncing off the walls with realistic physics.
+- Canvas Animation: Utilizes the HTML5 Canvas for smooth, high-performance animations.
+- Gradient Background: A vibrant, animated gradient background for a visually appealing effect.
+- Dynamic Ball Animation: Balls with gradient colors in shades of black and white, bouncing off the walls with realistic physics.
 
 
 ## Files
 
-- `bigBang.html`: Main HTML file that includes the canvas and scripts.
-- `ball.js`: Contains functions to create and manipulate the particle elements and its effects.
+- `bigBang.html`: Main HTML file that includes the canvas and scripts links.
+- `balls.js`: Contains functions to create and manipulate the particle elements and its effects.
+- `styles.css`: Contains 
 
 ## How to run
 
