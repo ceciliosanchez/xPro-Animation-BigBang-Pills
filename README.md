@@ -9,8 +9,10 @@ This project showcases a visually stunning animation of bouncing balls with grad
 
 ## Functionality
 
-Particles rotate from the left to right.</br>
-When they hit the walls, they change in size.</br>
+- **Canvas Animation**: Utilizes the HTML5 Canvas for smooth, high-performance animations.
+- **Gradient Background**: A vibrant, animated gradient background for a visually appealing effect.
+- **Dynamic Ball Animation**: Balls with gradient colors in shades of black and white, bouncing off the walls with realistic physics.
+
 
 ## Files
 
