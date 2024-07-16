@@ -2,7 +2,10 @@
 
 ## Big Bang of Pills
 
-This project demonstrates how to create animated particles in JavaScript that rotate in a loop.
+This project showcases a visually stunning animation of bouncing balls with gradient colors on a dynamic background.
+
+## Demo
+![Demo](path/to/demo.gif)
 
 ## Functionality
 
