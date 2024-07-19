@@ -4,7 +4,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 let balls = [];
-const size = 26;  // 20 * 1.3 = 26
+const size = 24;  // Adjusted size to 24 for 20% increase (20 * 1.2)
 const stepsize = 10;
 
 class Ball {
@@ -18,7 +18,7 @@ class Ball {
     }
 
     draw() {
-        const grad = ctx.createRadialGradient(this.x, this.y, this.radius * 0.3, this.x, this.y, this.radius);
+        const grad = ctx.createRadialGradient(this.x, this.y, this.radius * 0.2, this.x, this.y, this.radius);
         grad.addColorStop(0, this.gradient.start);
         grad.addColorStop(1, this.gradient.end);
         
@@ -51,8 +51,8 @@ function getRandom(scale) {
 
 function createGradient() {
     const gradients = [
-        { start: 'black', end: 'white' },
-        { start: 'white', end: 'black' }
+        { start: '#E0E0E0', end: '#A0A0A0' },  // Very dark gray tones
+        { start: '#585858', end: '#000000' }   // Solid black to dark gray
     ];
     return gradients[Math.floor(Math.random() * gradients.length)];
 }
