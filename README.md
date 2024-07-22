@@ -22,7 +22,8 @@ This project showcases a visually stunning animation of bouncing balls with grad
 
 1. Clone the repository.
 2. Open `bigBang.html` in a web browser.
-3. Preview: <a href="https://ceciliosanchez.com/github/xpro/big_bang_pills/bigBang.html" target="_blank">Big Bang Pills![Animation Screenshot](img/screenshot.png)</a>
+3. Preview: </br>
+   <a href="https://ceciliosanchez.com/github/xpro/big_bang_pills/bigBang.html" target="_blank">Big Bang Pills![Animation Screenshot](img/screenshot.png)</a>
 
 
 ## Support
